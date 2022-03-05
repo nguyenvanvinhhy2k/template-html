@@ -1,0 +1,52 @@
+.item_status > img{
+   width: 80px;
+
+}
+.item_status{
+    top:40%;
+    left: 35%;
+    z-index: 999;
+    text-align: center;
+}
+.img_single{
+    border-radius: 50%;
+}
+.over{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    background: rgba(0,0,0,0.5);
+}
+.content_single{
+    width: 100%;
+
+    margin: 0;
+}
+.item{
+    padding: 0;
+}
+.item_single > img{
+   height: 600;
+    
+}
+.item >img{
+    height: 600;
+}
+.row_status{
+    width: 75%;
+    padding: 0 10px;
+   
+}
+.content_row_tag{
+    width: 25%;
+}
+.row_status>p{
+    font-size: 18px;
+}
+.h3_free{
+    font-size: 30px;
+    font-weight: 500;
+}
